@@ -25,16 +25,7 @@ An AI server for a mobile robot, combining YOLO11s person detection and tracking
 
 **Stack:** Python · YOLO11s · OpenCV · Whisper · HTTP/JSON · Raspberry Pi · ROS 2 · ESP32
 
-```mermaid
-flowchart LR
-    Camera --> Vision[YOLO11s detection & tracking]
-    Mic[Microphone] --> Speech[Whisper speech recognition]
-    Vision --> Server[Python AI server]
-    Speech --> Server
-    Server -->|HTTP / JSON| Pi[Raspberry Pi · ROS 2]
-    Pi --> ESP[ESP32]
-    ESP --> Motors[Robot motors]
-```
+![AI robot system architecture](./robot-architecture.svg)
 
 ## Tools I use
 
