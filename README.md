@@ -54,6 +54,6 @@ flowchart LR
 ---
 
 <p align="center">
-  <sub>Learning by building · Vietnam</sub>
+  <sub>Learning by building</sub>
 </p>
 
