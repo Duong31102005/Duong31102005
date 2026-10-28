@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Duong — Robotics and AI</title>
+  <desc id="desc">A dark technical banner with a cyan robotic head schematic and the words Robotics and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111d"/><stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#59f3c8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8be9ff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <path d="M0 282H1200" stroke="#42dff5" stroke-opacity=".22"/>
+  <path d="M44 42V318" stroke="#42dff5" stroke-opacity=".25"/>
+  <circle cx="44" cy="42" r="4" fill="#00e5ff" filter="url(#glow)"/>
+  <text x="78" y="63" fill="#8ea8bc" font-family="monospace" font-size="14" letter-spacing="3">DUONG31102005  /  ENGINEERING LOG</text>
+  <text x="76" y="151" fill="#f0f7ff" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="1">ROBOTICS</text>
+  <text x="76" y="215" fill="url(#cyan)" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="1">× AI SYSTEMS</text>
+  <text x="80" y="255" fill="#9cb1c4" font-family="Arial,Helvetica,sans-serif" font-size="18">Perception  ·  Autonomy  ·  Connected software</text>
+  <g fill="none" stroke="url(#cyan)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="941" cy="160" r="112" stroke-opacity=".35"/>
+    <circle cx="941" cy="160" r="93" stroke-opacity=".55" stroke-dasharray="3 9"/>
+    <path d="M899 122h84a18 18 0 0 1 18 18v59a18 18 0 0 1-18 18h-84a18 18 0 0 1-18-18v-59a18 18 0 0 1 18-18Z"/>
+    <path d="M922 155v18m38-18v18M925 192q16 15 32 0M941 122V99m-9 0h18"/>
+    <path d="M881 155h-24v-20h-35m217 20h23v-20h35M881 188h-28v31h-43m212-31h28v31h39"/>
+    <circle cx="822" cy="135" r="4" fill="#00e5ff"/><circle cx="1095" cy="135" r="4" fill="#00e5ff"/>
+    <circle cx="810" cy="219" r="4" fill="#00e5ff"/><circle cx="1112" cy="219" r="4" fill="#00e5ff"/>
+    <path d="M876 73l-15-15m145 15 15-15M876 247l-15 15m145-15 15 15"/>
+  </g>
+  <g font-family="monospace" font-size="11" fill="#9cb1c4" letter-spacing="1.4">
+    <text x="787" y="124">VISION</text><text x="1080" y="124">ROS 2</text>
+    <text x="773" y="240">SENSORS</text><text x="1085" y="240">CONTROL</text>
+  </g>
+  <text x="78" y="324" fill="#57e5ef" font-family="monospace" font-size="12" letter-spacing="2">BUILD  /  INTEGRATE  /  ITERATE</text>
+  <text x="1117" y="324" fill="#647b91" font-family="monospace" font-size="12" text-anchor="end">01 — 07</text>
+</svg>
