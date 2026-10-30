@@ -1,0 +1,1061 @@
+{
+  "user": "Duong31102005",
+  "generated_at": "2026-10-30T00:28:57Z",
+  "since": "2026-04-30T17:00:00Z",
+  "repos": [
+    {
+      "full_name": "Duong31102005/AI_Robot",
+      "relationship": "owned",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-07T01:02:52Z",
+      "primary_language": "Python",
+      "language_bytes": {
+        "Python": 184660
+      },
+      "commits": [
+        {
+          "sha": "cf011671cd9ffb7b06b503e0133970e6346ad4e9",
+          "date": "2026-07-30T12:02:09Z"
+        },
+        {
+          "sha": "c1f6fd9fb88928a8cea24a7623b33ed33a09442a",
+          "date": "2026-07-30T12:02:49Z"
+        },
+        {
+          "sha": "5f0ea3e00877ccfc59576164e9a9a72f00bb266f",
+          "date": "2026-07-30T12:05:07Z"
+        },
+        {
+          "sha": "542834a7ff15c67d6b57cefd54a9d6253766bc70",
+          "date": "2026-07-31T13:02:03Z"
+        },
+        {
+          "sha": "cbb580cdcdfc459b6ff5cb9cb5ff7e69d9a050cb",
+          "date": "2026-07-31T13:05:22Z"
+        },
+        {
+          "sha": "a0f8f2254a7e46a04e9b958c5e44658c008f40f3",
+          "date": "2026-08-01T09:50:51Z"
+        },
+        {
+          "sha": "6639e46cee5331bc17a723061b95068bd21a068f",
+          "date": "2026-08-01T10:36:24Z"
+        },
+        {
+          "sha": "0c7c81f22fa17a73e9978cc93b14ba506c403137",
+          "date": "2026-08-01T11:09:43Z"
+        },
+        {
+          "sha": "312affadda6cda8ee641012bb5fce7b77a98361a",
+          "date": "2026-08-01T11:14:33Z"
+        },
+        {
+          "sha": "209df9832c782217707dfd9503934c4d21f35fb4",
+          "date": "2026-08-02T04:44:08Z"
+        },
+        {
+          "sha": "1e331697811d617b223212115d9510120437baf1",
+          "date": "2026-08-03T07:01:05Z"
+        },
+        {
+          "sha": "f38b0f853a9900a73cd564fdbed60d1fc76eb279",
+          "date": "2026-08-03T09:28:05Z"
+        },
+        {
+          "sha": "6e19de56da22645a985129f7d688cf849bdeceaa",
+          "date": "2026-08-03T09:50:41Z"
+        },
+        {
+          "sha": "8ad14cf5660d69f83f575a2665d12c5087a55804",
+          "date": "2026-08-03T09:57:02Z"
+        },
+        {
+          "sha": "75347dd48fc3745bf7bca1945976b10a79be1a15",
+          "date": "2026-08-03T10:00:00Z"
+        },
+        {
+          "sha": "5d3e023b2c6f0bb06ccc247b33ae4fbcf4d120cc",
+          "date": "2026-08-03T10:04:17Z"
+        },
+        {
+          "sha": "3076df5324f6e6389d8b900c6388c4aa66d3bbc7",
+          "date": "2026-08-03T11:17:06Z"
+        },
+        {
+          "sha": "993a62e2539b3b8d2343e2ca0ee7fc9bba4755d6",
+          "date": "2026-08-03T11:33:37Z"
+        },
+        {
+          "sha": "86639c0ecf33d8b184ad099efc5c0d76d7a8b9c1",
+          "date": "2026-08-03T11:58:35Z"
+        },
+        {
+          "sha": "bdabf2a087346a1dc2e7a3b09e6abcf641b8ea1f",
+          "date": "2026-08-04T03:58:22Z"
+        },
+        {
+          "sha": "4820b5e89b18ff17ab315de4f90cb0a895f48a07",
+          "date": "2026-08-04T05:27:03Z"
+        },
+        {
+          "sha": "fc0bef8ac93adea4732a310364bf40dee01e7a1c",
+          "date": "2026-08-04T06:39:39Z"
+        },
+        {
+          "sha": "6a176f2cd5f017ae3b99b0c9d686ffd2bb0f88ef",
+          "date": "2026-08-04T07:35:37Z"
+        },
+        {
+          "sha": "6af03f8d9aa661502aa539d73d9a6469f97897b8",
+          "date": "2026-08-04T07:37:56Z"
+        },
+        {
+          "sha": "7128ca5b05c605f4366f16f1fb30b08a892a649b",
+          "date": "2026-08-04T07:43:05Z"
+        },
+        {
+          "sha": "16242475cac9cc6e0d2b2ea401ee710f97a91634",
+          "date": "2026-08-04T07:55:26Z"
+        },
+        {
+          "sha": "58369a77999e3022ac517536739d60148559fdcf",
+          "date": "2026-08-04T07:58:32Z"
+        },
+        {
+          "sha": "b46adc6202c5ce9078b276421db73311d74efd82",
+          "date": "2026-08-04T08:03:05Z"
+        },
+        {
+          "sha": "e0395b88e0a81cfc04ee1be91dd8ef6c76368089",
+          "date": "2026-08-04T08:13:19Z"
+        },
+        {
+          "sha": "bb92ee9b6e0d955657a275a86162ea5980f54b2d",
+          "date": "2026-08-04T08:16:02Z"
+        },
+        {
+          "sha": "469f3934d245abc4e84edc7f725b940f1d2e3b59",
+          "date": "2026-08-04T08:19:05Z"
+        },
+        {
+          "sha": "7ce41223b11bb791d72425c04f5944be35cfa72c",
+          "date": "2026-08-04T08:21:15Z"
+        },
+        {
+          "sha": "dc6e24146d3b05dfb080099faa29460b2126ce2d",
+          "date": "2026-08-04T08:24:30Z"
+        },
+        {
+          "sha": "63ef2581d0d833e16ac1a2c74a3f4b5935193813",
+          "date": "2026-08-04T08:27:58Z"
+        },
+        {
+          "sha": "dd886c2eadb94616d6c9cb60d15d91ffbc4b680b",
+          "date": "2026-08-06T02:29:14Z"
+        },
+        {
+          "sha": "90b68db6bad69fa21a9e692bf4b5113b7c8aa10c",
+          "date": "2026-08-06T22:04:02Z"
+        },
+        {
+          "sha": "aa43a03c009f0eccdcdceb22bf3f29e4f27ee579",
+          "date": "2026-08-06T22:04:23Z"
+        },
+        {
+          "sha": "823418951ed104661c3d54ec9245fc1f7832303b",
+          "date": "2026-08-07T00:01:13Z"
+        },
+        {
+          "sha": "3efa3932993d5820f0263dd787e294430e13286a",
+          "date": "2026-08-07T01:02:49Z"
+        }
+      ]
+    },
+    {
+      "full_name": "namp12/robot_main",
+      "relationship": "team",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-21T02:06:22Z",
+      "primary_language": "Python",
+      "language_bytes": {
+        "Python": 422433,
+        "Makefile": 403026,
+        "CMake": 260662,
+        "Shell": 119990,
+        "C": 74559,
+        "C++": 73791,
+        "PowerShell": 28906,
+        "Perl": 4655,
+        "TypeScript": 963
+      },
+      "commits": [
+        {
+          "sha": "26cdce13f18f7bef4d0960e9298c6e1d5d179282",
+          "date": "2026-07-30T12:03:48Z"
+        },
+        {
+          "sha": "5c65e1331d4cf447a291c78d44f3465667744fbb",
+          "date": "2026-07-31T03:16:03Z"
+        },
+        {
+          "sha": "43b50f7df2b7c409675729de2ec5e3e48906bb99",
+          "date": "2026-07-31T12:28:34Z"
+        },
+        {
+          "sha": "97b17abc2fd275aa761b3d6f0effb7463ea6f573",
+          "date": "2026-07-31T12:34:40Z"
+        },
+        {
+          "sha": "b1f98eade03a201a04f87bf0afaa8dcfe40b9922",
+          "date": "2026-07-31T12:49:01Z"
+        },
+        {
+          "sha": "afb49cfeaac34f7b18f00eaccb8a91db391dec9c",
+          "date": "2026-07-31T12:57:46Z"
+        },
+        {
+          "sha": "2010a72feca01088790ba117f1122cc3a7a8eb0b",
+          "date": "2026-08-01T11:10:19Z"
+        },
+        {
+          "sha": "a38086876672126be91363635e9e0860e47d85a7",
+          "date": "2026-08-01T11:13:42Z"
+        },
+        {
+          "sha": "b3f1dc42748460763dcd276230a3c574c856b465",
+          "date": "2026-08-01T13:15:31Z"
+        },
+        {
+          "sha": "1a6aadecf0f9b04b0674338eaa65acf1918ac08f",
+          "date": "2026-08-02T09:56:21Z"
+        },
+        {
+          "sha": "08bfa60120887246ee6ba9dfa2a8dbd7b63dfab7",
+          "date": "2026-08-02T10:23:25Z"
+        },
+        {
+          "sha": "242fa9119d4e791be7c10721c071e1378d1e5ae4",
+          "date": "2026-08-03T02:54:28Z"
+        },
+        {
+          "sha": "d45dd32d05090ba42d75956b0718db7bfc929d85",
+          "date": "2026-08-03T03:03:39Z"
+        },
+        {
+          "sha": "7a413ca5c30134ce61964ead28d8ca8b5184e043",
+          "date": "2026-08-03T03:10:36Z"
+        },
+        {
+          "sha": "f52e042e37c539338b9dbbf50ff40ef4580f96bc",
+          "date": "2026-08-03T03:33:05Z"
+        },
+        {
+          "sha": "bbde4f1717c46d813f4d44bf390de55e172ce2e6",
+          "date": "2026-08-03T04:00:08Z"
+        },
+        {
+          "sha": "a8ea4cd090755fb03c4b6c2613db5f986efc76a7",
+          "date": "2026-08-03T04:38:51Z"
+        },
+        {
+          "sha": "57370ab144f81d77f3568e8908c32306877e6597",
+          "date": "2026-08-03T04:43:48Z"
+        },
+        {
+          "sha": "00b8ceb2adb2ee10e5d0832653c6c37a918d95a8",
+          "date": "2026-08-03T05:02:08Z"
+        },
+        {
+          "sha": "f36b51f112da4dc5f5cd59ea709e1d3f99cc138e",
+          "date": "2026-08-03T05:08:06Z"
+        },
+        {
+          "sha": "da8d73c7781bb4e2f97487bdfe4baf5fcc996865",
+          "date": "2026-08-03T06:03:56Z"
+        },
+        {
+          "sha": "e3b64b7dc9e8ec4bb01a3336c7cb2525319f3df0",
+          "date": "2026-08-03T07:01:31Z"
+        },
+        {
+          "sha": "4eb719f8b83c9f16734cfdb16173d2a0ad5395b8",
+          "date": "2026-08-03T08:54:33Z"
+        },
+        {
+          "sha": "9510a3099fd65dcc21a9da8ab5df1179261d62f9",
+          "date": "2026-08-03T09:04:24Z"
+        },
+        {
+          "sha": "0e8ffc34024c14957cd8a7f9560d7ab75c61dd03",
+          "date": "2026-08-03T09:16:48Z"
+        },
+        {
+          "sha": "4dc28c5d0caae17b0e13651f820ba3150cb085ec",
+          "date": "2026-08-03T09:31:53Z"
+        },
+        {
+          "sha": "de127f09afb5fb29802b582ce4cc66b1b21fc019",
+          "date": "2026-08-03T09:35:05Z"
+        },
+        {
+          "sha": "738bd27acf70cb6cc810eb753bf12c7876f9ebb3",
+          "date": "2026-08-03T09:54:03Z"
+        },
+        {
+          "sha": "0ea299b80e39a43342bab0813023dc4b45a539e5",
+          "date": "2026-08-03T10:14:35Z"
+        },
+        {
+          "sha": "c35da176a6a93b0a44c3025d7680bb25680cb28f",
+          "date": "2026-08-03T11:04:44Z"
+        },
+        {
+          "sha": "ab7b6ee22ed8c7d355af3b0045d074824fe3caff",
+          "date": "2026-08-03T11:16:33Z"
+        },
+        {
+          "sha": "3bb727d0449d851d34416bdcc5cd78d18cf41851",
+          "date": "2026-08-03T12:02:12Z"
+        },
+        {
+          "sha": "b943a04f80f2764d706d1a8d4ac389c5ef82c182",
+          "date": "2026-08-04T01:18:55Z"
+        },
+        {
+          "sha": "36c0dd5ed6018099bead16a87f376f143edac1a4",
+          "date": "2026-08-04T01:30:50Z"
+        },
+        {
+          "sha": "dbf2342aac3d0abbc2cfcd3471d7e7828eeaa3a1",
+          "date": "2026-08-04T01:34:11Z"
+        },
+        {
+          "sha": "ab5cda0da944ae74ad2a58a9940709ec9cfc82ab",
+          "date": "2026-08-04T01:35:56Z"
+        },
+        {
+          "sha": "89c6608a20f48564ffeae5a6a6383cc1312f34b0",
+          "date": "2026-08-04T01:45:06Z"
+        },
+        {
+          "sha": "3d0b64359021865d5a3faada575d603ae1fed62b",
+          "date": "2026-08-04T02:16:47Z"
+        },
+        {
+          "sha": "8efd66abe8e3bc7ba1e77c4974e6085938233869",
+          "date": "2026-08-04T02:30:47Z"
+        },
+        {
+          "sha": "f1aa15251215b174309600fcbe23c0b4647e5310",
+          "date": "2026-08-04T03:16:39Z"
+        },
+        {
+          "sha": "5513a89d429e2abbb4354a9073f3eccf8b6b38be",
+          "date": "2026-08-04T03:26:46Z"
+        },
+        {
+          "sha": "8b4511e7a2eb7cbe8455445d9615fa098385f369",
+          "date": "2026-08-04T03:34:30Z"
+        },
+        {
+          "sha": "77b339c8d954a8f628c3f545a3601b91c22df0e2",
+          "date": "2026-08-04T04:22:18Z"
+        },
+        {
+          "sha": "b6ddaac54148d9e32ad35f59ef7e1fc210e5c152",
+          "date": "2026-08-04T05:44:40Z"
+        },
+        {
+          "sha": "15f9242d41db9fb59e8050cdab3e8563825aa803",
+          "date": "2026-08-04T07:47:27Z"
+        },
+        {
+          "sha": "17191481382dae6eec947bfd627486c3661dc5eb",
+          "date": "2026-08-04T07:58:42Z"
+        },
+        {
+          "sha": "f137a84c94e10c3a2ac36844c14fa43ac7cf7f09",
+          "date": "2026-08-04T09:30:15Z"
+        },
+        {
+          "sha": "fc33681ea32ac6057eaf43a6ade4103097d9e2b0",
+          "date": "2026-08-04T09:40:01Z"
+        },
+        {
+          "sha": "288b7afe09453abd750783dafa3ca8225acd0045",
+          "date": "2026-08-04T09:40:57Z"
+        },
+        {
+          "sha": "6c5b370ad151373bfcf546c76e022c6b8ab214c7",
+          "date": "2026-08-04T10:10:03Z"
+        },
+        {
+          "sha": "8a33edd1de6c8d4609495fcc54349ae33c599d56",
+          "date": "2026-08-04T11:52:36Z"
+        },
+        {
+          "sha": "ddad1f9b38a874e95deeeef40d4af49bb1037a6c",
+          "date": "2026-08-04T13:21:55Z"
+        },
+        {
+          "sha": "941d507a3c827635e52bc3bd639e764b5bb17b28",
+          "date": "2026-08-04T13:59:19Z"
+        },
+        {
+          "sha": "8efff8343c7eaa698f0b250b94454e671b35df43",
+          "date": "2026-08-04T14:03:41Z"
+        },
+        {
+          "sha": "7fb796ac6a7e6f36b3c34465cd301ef789c2fc8e",
+          "date": "2026-08-05T02:33:54Z"
+        },
+        {
+          "sha": "1911d6691021aed750c52327703b0f53a09d14e4",
+          "date": "2026-08-05T02:58:28Z"
+        },
+        {
+          "sha": "6db40189a7bd2117d449b06d85f1c68f9b86d0d6",
+          "date": "2026-08-05T03:02:54Z"
+        },
+        {
+          "sha": "a84e508ab8be594681b9b8a15f835356bbe06c7e",
+          "date": "2026-08-05T06:14:08Z"
+        },
+        {
+          "sha": "438c9d444d1f8bbf16d24f2e60434cdee99b8fb9",
+          "date": "2026-08-05T06:22:04Z"
+        },
+        {
+          "sha": "f1a8e3cd22a247e046dfdff450b83d93b31343b7",
+          "date": "2026-08-05T06:23:26Z"
+        },
+        {
+          "sha": "25cee66545c99514f33d36c8d9761b33de4891bd",
+          "date": "2026-08-05T06:34:39Z"
+        },
+        {
+          "sha": "7a4ccbd7fb0a3884a1d005431c190e75d5140b05",
+          "date": "2026-08-05T06:36:47Z"
+        },
+        {
+          "sha": "7be00e2b42df94cdd714f1a605e0d552b0494c5c",
+          "date": "2026-08-05T06:38:07Z"
+        },
+        {
+          "sha": "4d19e3ec671dbd637d1fab54c5eb611f5d570848",
+          "date": "2026-08-05T06:41:28Z"
+        },
+        {
+          "sha": "3e71e07bceb3247cfef06e15dab444adf5ed58e0",
+          "date": "2026-08-05T06:42:16Z"
+        },
+        {
+          "sha": "364c92b1d79ff3416ef9ae7966a7c06b3b1318cd",
+          "date": "2026-08-05T06:43:39Z"
+        },
+        {
+          "sha": "ee83e7cc86fd35a9000df81977b1958a50d6b11b",
+          "date": "2026-08-05T07:38:44Z"
+        },
+        {
+          "sha": "ecc33b762400788ca7e34243471112b570c73a35",
+          "date": "2026-08-05T09:06:34Z"
+        },
+        {
+          "sha": "0641e0500025d005119c0fbfae4055b74388afc7",
+          "date": "2026-08-05T09:12:28Z"
+        },
+        {
+          "sha": "6c1641ee3507f461da5cada13a008e03b692c123",
+          "date": "2026-08-05T10:41:21Z"
+        },
+        {
+          "sha": "44f056f55e0a2167401192bdacc44d0979baadf8",
+          "date": "2026-08-05T10:52:30Z"
+        },
+        {
+          "sha": "2cdf85490d09728b283a99344c6ec1d7b5075531",
+          "date": "2026-08-05T11:02:13Z"
+        },
+        {
+          "sha": "a9e969de450750e630cbd130ba8ce28a0490aa28",
+          "date": "2026-08-05T11:24:47Z"
+        },
+        {
+          "sha": "27d3d4bdf4ad49519ae84feacd48099f0aa16fc7",
+          "date": "2026-08-06T04:42:15Z"
+        },
+        {
+          "sha": "8708383afe3857284bb02d07d991f337a3bb7ee8",
+          "date": "2026-08-06T06:12:49Z"
+        },
+        {
+          "sha": "6f92c09ff92b01b6786158a661be3cdda8b69638",
+          "date": "2026-08-06T06:17:02Z"
+        },
+        {
+          "sha": "dc38b7f429c4b7590d495041c8108b38cab255a9",
+          "date": "2026-08-06T06:19:37Z"
+        },
+        {
+          "sha": "8bec3dc772d3993a1448f8b36f9c30f1cf1e08a5",
+          "date": "2026-08-06T06:28:24Z"
+        },
+        {
+          "sha": "84ac8268cb9aaa2180eef62205c92df4ae63a89d",
+          "date": "2026-08-06T07:01:43Z"
+        },
+        {
+          "sha": "da751e954511de630bccf69a05c2db874ea8a4f9",
+          "date": "2026-08-06T07:41:47Z"
+        },
+        {
+          "sha": "a604cb1e95f19fa54b35b81e4e387f768cb72f53",
+          "date": "2026-08-06T08:03:55Z"
+        },
+        {
+          "sha": "da1cc48b3dbfd7d598be7553a2bfd66e30d2a17e",
+          "date": "2026-08-06T08:20:40Z"
+        },
+        {
+          "sha": "a6d465c243710045f7cb1af2dcce036e37aa7c40",
+          "date": "2026-08-06T08:45:51Z"
+        },
+        {
+          "sha": "50b7af39a78081039800cbc0e60d4ed618a85fb2",
+          "date": "2026-08-06T08:51:05Z"
+        },
+        {
+          "sha": "8cb7e18847355e7c191c9ec4caf5699f69048ee3",
+          "date": "2026-08-06T09:10:33Z"
+        },
+        {
+          "sha": "c37e49bba7fed7d3bafefcceb04d02a2c3b9ce56",
+          "date": "2026-08-06T09:25:46Z"
+        },
+        {
+          "sha": "de063ed909392f0fa3287bca073392c60be39b2c",
+          "date": "2026-08-06T15:13:38Z"
+        },
+        {
+          "sha": "b4ff1f7fa40357e64b6177d37b75afbc19b92862",
+          "date": "2026-08-06T15:15:42Z"
+        },
+        {
+          "sha": "d22c3a9762d56cb8125026f2fed15d1c9020cde4",
+          "date": "2026-08-06T15:17:15Z"
+        },
+        {
+          "sha": "9e9585c7125a98bfd28ae9aa50096020ed855750",
+          "date": "2026-08-06T16:25:07Z"
+        },
+        {
+          "sha": "018ba621addf9dd937006b578d046fc69f168bf7",
+          "date": "2026-08-06T17:21:39Z"
+        },
+        {
+          "sha": "348ce0d28f7725618b3cf141b7a81acdfd5e6790",
+          "date": "2026-08-06T19:30:26Z"
+        },
+        {
+          "sha": "af34aa71f3dee92cdf66b10a194f2299268f8724",
+          "date": "2026-08-06T19:53:02Z"
+        },
+        {
+          "sha": "aa3c8d626af83200a6e79a5fd01f8d81adf981a7",
+          "date": "2026-08-06T20:15:49Z"
+        },
+        {
+          "sha": "40d0d3f257def3991a3155fd9c97c673fa6b7aae",
+          "date": "2026-08-06T20:35:39Z"
+        },
+        {
+          "sha": "6fbd8bd7fee05d0c5b4f59c9735279ceb54c3dac",
+          "date": "2026-08-06T20:43:51Z"
+        },
+        {
+          "sha": "8a933ddfb42c491a4fd6023eea53366ccf0da0f0",
+          "date": "2026-08-06T20:48:58Z"
+        },
+        {
+          "sha": "9358620fd165aa845beb41602f042ef34a68279e",
+          "date": "2026-08-06T20:56:42Z"
+        },
+        {
+          "sha": "5834c85823157b1908407abbef45a0a2e56b12f0",
+          "date": "2026-08-06T21:03:40Z"
+        },
+        {
+          "sha": "fba0dba664b671cd84aa1d98c1e8ff276869cf14",
+          "date": "2026-08-06T21:21:43Z"
+        },
+        {
+          "sha": "55627ae36aa6ce99f38fb278338516eaf7f21e9b",
+          "date": "2026-08-06T21:28:43Z"
+        },
+        {
+          "sha": "c3a3622eb0905a9acb3def94bca23f5d6f5c56a5",
+          "date": "2026-08-06T21:36:09Z"
+        },
+        {
+          "sha": "b2e2201e3347dd546b047e06b68a41feadc8b0a9",
+          "date": "2026-08-06T22:03:55Z"
+        },
+        {
+          "sha": "976f927fc6d0e7b097ae79efb726ff7f172cd9d4",
+          "date": "2026-08-06T22:09:45Z"
+        },
+        {
+          "sha": "cc92561fcfa73e1dc2110e913235faeb2e021a22",
+          "date": "2026-08-06T22:13:57Z"
+        },
+        {
+          "sha": "6a40c72e20912579955bc52eacd4c5c1e80c6507",
+          "date": "2026-08-06T22:15:28Z"
+        }
+      ]
+    },
+    {
+      "full_name": "namp12/Robot_web",
+      "relationship": "team",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-07T01:03:00Z",
+      "primary_language": "TypeScript",
+      "language_bytes": {
+        "TypeScript": 207670,
+        "Python": 181814,
+        "JavaScript": 10475,
+        "C++": 10240,
+        "CSS": 852,
+        "HTML": 794
+      },
+      "commits": [
+        {
+          "sha": "4db9698ae8e52763146cd5e4237eb0a91fb985b7",
+          "date": "2026-08-01T11:27:21Z"
+        },
+        {
+          "sha": "6cfa1db74c248ff4c90af5e4bb0396d3fc8b9ce8",
+          "date": "2026-08-02T04:44:51Z"
+        },
+        {
+          "sha": "9d7a01c39122d1d16c772f1e43ec9483a32f0137",
+          "date": "2026-08-03T02:50:32Z"
+        },
+        {
+          "sha": "7a68ce4039f5a796bd3c0d7c6e235cf50ea75827",
+          "date": "2026-08-03T03:11:41Z"
+        },
+        {
+          "sha": "2c4bf02e142737d5353544ba34fec0d64d77ad6a",
+          "date": "2026-08-03T05:13:34Z"
+        },
+        {
+          "sha": "6602db2b091d8331c31465328310da54bee4af22",
+          "date": "2026-08-03T06:11:54Z"
+        },
+        {
+          "sha": "eb792c9c00333c1434437827a71ccbc1433235e4",
+          "date": "2026-08-03T06:21:08Z"
+        },
+        {
+          "sha": "8b2953d161bbe29dd862ee313143669f4fefba80",
+          "date": "2026-08-03T06:25:30Z"
+        },
+        {
+          "sha": "0eaa970a964718454c829296ad8aaef053652b80",
+          "date": "2026-08-03T06:30:55Z"
+        },
+        {
+          "sha": "c686d96be310eb182e4f0c0bf9c3e83f63ec6665",
+          "date": "2026-08-03T06:52:29Z"
+        },
+        {
+          "sha": "2dcd6d37354c4364d74a997a708212259fe35f73",
+          "date": "2026-08-04T03:57:53Z"
+        },
+        {
+          "sha": "fc178fdf12df8dfd9ffc6d20aa0cf3831a0e4384",
+          "date": "2026-08-04T05:20:10Z"
+        },
+        {
+          "sha": "ebc72633d376cc9d5bed790dd2ff5d236c015f48",
+          "date": "2026-08-04T05:29:00Z"
+        },
+        {
+          "sha": "70e1d2826c06224ed2714f30954e648109eaf36d",
+          "date": "2026-08-04T06:42:14Z"
+        },
+        {
+          "sha": "1f2eca409815887e92c0f8fb89d767f5d9181065",
+          "date": "2026-08-04T07:35:46Z"
+        },
+        {
+          "sha": "f4c7da5bbf050c3e6cf4d36f4b82545130234154",
+          "date": "2026-08-04T09:29:45Z"
+        },
+        {
+          "sha": "021e0f9fafce4df8c52c31bed225ad287db29ee1",
+          "date": "2026-08-04T10:49:28Z"
+        },
+        {
+          "sha": "85824291045ecebc2c67278c7b803cf195fd9f83",
+          "date": "2026-08-04T10:54:10Z"
+        },
+        {
+          "sha": "4b90954c0a0bd83c03c2cb8ffc92f495680b0668",
+          "date": "2026-08-04T10:59:30Z"
+        },
+        {
+          "sha": "8d9ba0a57b11f04652176e84b5879dd8d54678e5",
+          "date": "2026-08-04T13:00:14Z"
+        },
+        {
+          "sha": "80bc54b54cd86e46de23d6ad117aa80f53a6dfa1",
+          "date": "2026-08-04T13:07:50Z"
+        },
+        {
+          "sha": "4f1b189f91b7f3e14234244bac1778cfee580170",
+          "date": "2026-08-04T13:09:47Z"
+        },
+        {
+          "sha": "20d4c89a4deb18c70a7e9625fed1c0164432a2c1",
+          "date": "2026-08-04T13:14:07Z"
+        },
+        {
+          "sha": "c753ab595a8991d7e3d1642d7a72dde45ddae7cf",
+          "date": "2026-08-04T13:21:06Z"
+        },
+        {
+          "sha": "ebaa999035464dd90512aa73b5ac7a1ce7907040",
+          "date": "2026-08-05T02:47:33Z"
+        },
+        {
+          "sha": "f5a1d1ec1b9b428a5516a34aa50717c61cc54fbf",
+          "date": "2026-08-05T02:50:41Z"
+        },
+        {
+          "sha": "031d24c74f60d297870a12fefb3b1e0c0bdf2fa0",
+          "date": "2026-08-05T02:53:58Z"
+        },
+        {
+          "sha": "ba33023eed81311bdfad9bf13dd716b00b6b73fc",
+          "date": "2026-08-05T03:11:09Z"
+        },
+        {
+          "sha": "5c48806253305b3060a4b55434c162189bbf8c51",
+          "date": "2026-08-05T03:21:34Z"
+        },
+        {
+          "sha": "9195424305571e9ab5f67ba47b03ef70396cea95",
+          "date": "2026-08-05T03:23:05Z"
+        },
+        {
+          "sha": "54466e147b084cce5e87d07ef893fcfded3d59c7",
+          "date": "2026-08-05T03:24:59Z"
+        },
+        {
+          "sha": "4284561d6a3d574f4152c4d44082f8db8c9a8770",
+          "date": "2026-08-05T07:37:54Z"
+        },
+        {
+          "sha": "6e3458ae38b1fe14006480c73000d005fd177f93",
+          "date": "2026-08-05T09:16:49Z"
+        },
+        {
+          "sha": "0af2bf6a42f1cfed6df24d9f53a4bf64a04e47be",
+          "date": "2026-08-05T10:34:33Z"
+        },
+        {
+          "sha": "2b2b2f00bec1cf2e52e91529eed700133ceb31f7",
+          "date": "2026-08-05T11:32:20Z"
+        },
+        {
+          "sha": "429a1f280d3e4100bb31259d379ca6fce63a945e",
+          "date": "2026-08-06T07:41:54Z"
+        },
+        {
+          "sha": "04ee040b6e57cef66f864586e9a19756a01fa81b",
+          "date": "2026-08-06T08:04:05Z"
+        },
+        {
+          "sha": "a6af4e1dc9e1dfa4005e1ea18903d6743a0d46b5",
+          "date": "2026-08-06T08:38:22Z"
+        },
+        {
+          "sha": "32f6a564d17b1738a1445546dd2053f4583e9e66",
+          "date": "2026-08-06T08:54:39Z"
+        },
+        {
+          "sha": "69cc90e9f4c027bfb19e0a77bd76772bf478f590",
+          "date": "2026-08-06T09:10:41Z"
+        },
+        {
+          "sha": "2d04239fdbe3ba10af7f30689ffd7b62d3218ee1",
+          "date": "2026-08-06T09:25:55Z"
+        },
+        {
+          "sha": "776536dbb1fd0c4dc79f211c4bc76649bfcb19f5",
+          "date": "2026-08-06T09:32:45Z"
+        },
+        {
+          "sha": "a0c1015be3b8d01dcd17117261ab883cee2073f3",
+          "date": "2026-08-06T15:20:51Z"
+        },
+        {
+          "sha": "44979479981b7c44703f7e241741f17aa2fd4760",
+          "date": "2026-08-06T18:42:00Z"
+        },
+        {
+          "sha": "cfb076cb198e7f62157346679c0a3dbc7c135a3d",
+          "date": "2026-08-06T18:44:43Z"
+        },
+        {
+          "sha": "b19feb897352b076aac7943a114b86280af11ff4",
+          "date": "2026-08-06T18:47:40Z"
+        },
+        {
+          "sha": "bb3ec6b93f5e906dfd24479a7f3e274d67e491e1",
+          "date": "2026-08-06T18:58:12Z"
+        },
+        {
+          "sha": "28da1792fc7d3a45fca240248f4e29eec4051825",
+          "date": "2026-08-06T19:21:46Z"
+        },
+        {
+          "sha": "579b8846628f430ee672dfac61914abd0bf70e7d",
+          "date": "2026-08-06T19:24:06Z"
+        },
+        {
+          "sha": "b17bdbc44c5fcce39bc930d0302d0bd2dc655a58",
+          "date": "2026-08-06T19:25:53Z"
+        },
+        {
+          "sha": "29050bf2c7381b993a0440777fbefc593cae989b",
+          "date": "2026-08-06T19:33:36Z"
+        },
+        {
+          "sha": "25c6c5bbfc9b35d1b3c9ef519dfed45c7864c84a",
+          "date": "2026-08-06T19:46:43Z"
+        },
+        {
+          "sha": "41898af45739ec0dead598000349317c63703f4e",
+          "date": "2026-08-06T22:03:47Z"
+        },
+        {
+          "sha": "d37e392d0825b7ac4d81615fd5fbe078c3e51f6f",
+          "date": "2026-08-07T00:01:33Z"
+        },
+        {
+          "sha": "08601f39181af3a201744518cb0dcfb4588d1a1b",
+          "date": "2026-08-07T00:08:11Z"
+        },
+        {
+          "sha": "21c45a6684777944764dd48c0da4405e04150712",
+          "date": "2026-08-07T01:02:57Z"
+        }
+      ]
+    },
+    {
+      "full_name": "namp12/Robot_Tu_Hanh",
+      "relationship": "team",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-06T22:06:13Z",
+      "primary_language": "C++",
+      "language_bytes": {
+        "C++": 245207,
+        "C": 23342,
+        "Python": 16016,
+        "CSS": 9874,
+        "JavaScript": 9122,
+        "HTML": 688
+      },
+      "commits": [
+        {
+          "sha": "61a581e6e4103517df8891c52f5ba5fc46f12d1c",
+          "date": "2026-07-14T07:36:41Z"
+        },
+        {
+          "sha": "00aa9af40b9177a3a15525f221dad7970d7b5cc2",
+          "date": "2026-07-15T10:11:20Z"
+        },
+        {
+          "sha": "533990b8257aadf12a328decceff66bfbda16a69",
+          "date": "2026-07-16T23:54:21Z"
+        },
+        {
+          "sha": "d6ec49da08666a8d51bde66325c888ccba6ac4f2",
+          "date": "2026-07-21T08:00:50Z"
+        },
+        {
+          "sha": "c95392511d112ad14306084ae758d7812233ffb1",
+          "date": "2026-07-21T12:13:32Z"
+        },
+        {
+          "sha": "2b994f6ea044a10a4ba21d4937e9deb2b5e5892b",
+          "date": "2026-07-21T12:21:39Z"
+        },
+        {
+          "sha": "fcd7f1a5c9ae2f603a4c54d3e193b03a41966350",
+          "date": "2026-07-22T10:39:46Z"
+        },
+        {
+          "sha": "1506c0bf2d823592cb9bc6ba2b61b0f240bf1424",
+          "date": "2026-07-22T10:48:11Z"
+        },
+        {
+          "sha": "f53baca95a37e3ab8c6be6f57da1b742bd5fa4d0",
+          "date": "2026-07-22T10:55:55Z"
+        },
+        {
+          "sha": "54e7d38b0d59c512757082956e4070423870692e",
+          "date": "2026-07-22T11:10:46Z"
+        },
+        {
+          "sha": "9888bd8859bba22376471575ab8cf4ba27e6d4fa",
+          "date": "2026-07-22T11:14:59Z"
+        },
+        {
+          "sha": "ee657cc5397d3bf6ac5f82f80653d998a3b94517",
+          "date": "2026-07-22T11:19:04Z"
+        },
+        {
+          "sha": "47b33a18af042bb4159fb2752b40c4dbba06b6b3",
+          "date": "2026-07-22T11:23:43Z"
+        },
+        {
+          "sha": "a720590280a6495fd17a8747d688acc223a9cb36",
+          "date": "2026-07-22T11:26:57Z"
+        },
+        {
+          "sha": "fda1e1533a042463ddd1bb78c246c8a39ac26d8f",
+          "date": "2026-07-22T11:35:50Z"
+        },
+        {
+          "sha": "859ef8e503fda76faee678a84d3f47e83099a771",
+          "date": "2026-07-22T11:48:48Z"
+        },
+        {
+          "sha": "e7a1ebc90a0dff52db9b190a5e775cff588150f2",
+          "date": "2026-07-22T11:53:47Z"
+        },
+        {
+          "sha": "3a212a6ea70405c8834eefde598cfd26082cbdf5",
+          "date": "2026-07-22T12:01:43Z"
+        },
+        {
+          "sha": "8ffcca1d7a0395df8a99aaf81af29915a9136930",
+          "date": "2026-07-22T12:06:08Z"
+        },
+        {
+          "sha": "c2a67fc8b69d6c7c8c57bb83719e45fa34fb6164",
+          "date": "2026-07-22T12:15:41Z"
+        },
+        {
+          "sha": "caaec3776920ef115f73e1c762c7f07c08a14633",
+          "date": "2026-07-23T14:19:21Z"
+        },
+        {
+          "sha": "6ea7fd7bd0cc1cc8fbece37a31c5afbe58a16518",
+          "date": "2026-07-24T12:08:23Z"
+        },
+        {
+          "sha": "4b2ee0a53603b345c05de21287f5f18c82f97148",
+          "date": "2026-07-26T07:35:44Z"
+        },
+        {
+          "sha": "a62fb0261848cd3572fd6d9f298e2b25de2795a5",
+          "date": "2026-07-26T09:57:31Z"
+        },
+        {
+          "sha": "74cc7cef5b3dcf909fc1621c8f726d001c9fcb74",
+          "date": "2026-07-26T12:52:04Z"
+        },
+        {
+          "sha": "6067258bd96459babf578e5798d85b98d54afa8f",
+          "date": "2026-08-03T03:32:01Z"
+        },
+        {
+          "sha": "168f184bd0b250b2b0d74e3df127c1a21cd8b9fc",
+          "date": "2026-08-03T04:03:32Z"
+        },
+        {
+          "sha": "0331ac4cce19b6bdbff4e85269c38a02bf5d76e3",
+          "date": "2026-08-04T10:05:49Z"
+        },
+        {
+          "sha": "2f5b51bb688901579c3d0f7f00e70a7e2685da1b",
+          "date": "2026-08-04T10:07:01Z"
+        },
+        {
+          "sha": "84dd39229f3504f17a53910ca2ff092dfa868256",
+          "date": "2026-08-06T22:03:39Z"
+        },
+        {
+          "sha": "515dd1039242914a60c397d7b20de4bb11e3986c",
+          "date": "2026-08-06T22:06:09Z"
+        }
+      ]
+    },
+    {
+      "full_name": "namp12/cang_tin_truong_hoc",
+      "relationship": "team",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-28T12:05:58Z",
+      "primary_language": "TypeScript",
+      "language_bytes": {
+        "TypeScript": 865348,
+        "JavaScript": 14947,
+        "CSS": 2812,
+        "HTML": 908,
+        "Batchfile": 807
+      },
+      "commits": []
+    },
+    {
+      "full_name": "Duong31102005/btl_Nhom11",
+      "relationship": "owned",
+      "private": false,
+      "fork": false,
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2026-06-28T13:36:16Z",
+      "primary_language": "C#",
+      "language_bytes": {
+        "C#": 196157,
+        "HTML": 131503,
+        "CSS": 55655,
+        "JavaScript": 28094,
+        "TSQL": 8745
+      },
+      "commits": []
+    },
+    {
+      "full_name": "Duong31102005/Quan-li-khoa-hoc",
+      "relationship": "owned",
+      "private": false,
+      "fork": false,
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2025-07-01T15:30:58Z",
+      "primary_language": null,
+      "language_bytes": {},
+      "commits": []
+    }
+  ]
+}
