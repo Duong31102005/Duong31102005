@@ -34,7 +34,7 @@
 | [btl_Nhom11](https://github.com/Duong31102005/btl_Nhom11) | Web application | Owned repo | 0 |
 | [Quan-li-khoa-hoc](https://github.com/Duong31102005/Quan-li-khoa-hoc) | Course management | Owned repo | 0 |
 
-<sub>¹ Your authored commits · May 2026 – Oct 2026 · Default branches · Snapshot 2026-10-30</sub>
+<sub>¹ Your authored commits · May 2026 – Oct 2026 · Default branches · Snapshot 2026-10-31</sub>
 <!-- PROJECT_TABLE:END -->
 
 <details>
