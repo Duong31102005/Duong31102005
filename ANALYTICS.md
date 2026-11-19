@@ -1,6 +1,6 @@
 # Analytics methodology
 
-Snapshot: **2026-11-18T07:24:38Z**. Window: **2026-05-31T17:00:00Z** through the snapshot timestamp.
+Snapshot: **2026-11-19T07:21:55Z**. Window: **2026-05-31T17:00:00Z** through the snapshot timestamp.
 
 - Scope: the seven explicitly selected public project repositories linked in the profile. The profile repository and private repositories are excluded.
 - Owned repository means hosted under `Duong31102005`; it does not claim sole authorship. Team repositories belong to `namp12` and are projects the profile owner participates in.
